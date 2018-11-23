@@ -8,9 +8,10 @@ This course is intended for clinicians who want to become familiar with ontologi
 
 By the end of the course, participants will be able to:
 
-1. Understand [Basic Formal Ontology, Link is to YouTube video](https://www.youtube.com/watch?v=j9bA0_BobTQ)
-1. Become familiar with [Protege](https://protege.stanford.edu/) and [WebVOWL](http://vowl.visualdataweb.org/webvowl.html) creating an ontology
-1. Create a small ontolgy in the participant's domain of interest
+1. Understand [Basic Formal Ontology](https://www.youtube.com/watch?v=j9bA0_BobTQ) (Link is to YouTube video)
+1. Differentiate between biomedical ontologies and other techniques to represent knowledge (_e.g._ machine learning)
+1. Create a small ontolgy in the participant's domain of interest (_e.g._ reporting of major adverse cardiovascular events)
+1. Become familiar with [Protege](https://protege.stanford.edu/) and [WebVOWL](http://vowl.visualdataweb.org/webvowl.html) for interrogating existing ontologies. 
 
 # Prerequisites
 
