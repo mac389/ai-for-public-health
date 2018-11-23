@@ -1,23 +1,23 @@
 # Course Description 
 
-The Internet provides a wealth of data. To access those data, we must learn to navigate the abstractions that separate us from the data. These layers of abstraction ensure resilient and rapidly responsive databases. These layers are also made to preserve the database, not facilitate analysis. Over two days we will explore how to get data from the Internet to your computer. Through case studies we will demonstrate how to access application programming interfaces (APIs), discuss common data formats, and showcase common algorithms and open-source software commonly used in acquiring digital data. Participants should bring data sources related to their own research (along with their computers). In the latter portion of the second day we will sketch how to access those sources.
+The digitization of health care, syndromic surveillance, and movements such as ''quantified self'' have created a massive ammount of biomedical data. Some of these data could become useful information, but the pace of accumulation of these data outstrips the processing ability of humans. One scalable solution is to build a computational representation of human reasoning. This course introduces ontologies, one method to unambiguously represent parts of human reasoning. We introduce ontologies through the (CDC's Proposal to Integrate Reporting Adverse Events from Multiple Sources) [https://www.cdc.gov/ophss/chiic/projects/2015/ideas/exploration-of-ontological-management-of-reportable-events-to-facilitate-surveillance.html].
+
+This course is intended for clinicians who want to become familiar with ontologies as a means to explicitly represent biomedical knowledge and embed that knowledge in applications that automatically process data. It is also appropriate for researchers with no prior background in knowledge representation. 
 
 # Course Objective 
 
 By the end of the course, participants will be able to:
 
-1. Distinguish the qualitative and quantitative research paradigms
-1. Understand the principles underlying qualitative research tasks
-1. Design and conduct rigorous qualitative research
-1. Develop and evaluate effective qualitative research instruments
-1. Understand the skills for effective qualitative data collection
+1. Understand [Basic Formal Ontology, Link is to YouTube video](https://www.youtube.com/watch?v=j9bA0_BobTQ)
+1. Become familiar with [Protege](https://protege.stanford.edu/) and [WebVOWL](http://vowl.visualdataweb.org/webvowl.html) creating an ontology
+1. Create a small ontolgy in the participant's domain of interest
 
 # Prerequisites
 
-Participants should have their own laptops.
+Participants should bring their own laptops.
 
 # Readings (before class)
-None
+  Participants are encouraged to [watch the YouTube video](https://www.youtube.com/watch?v=j9bA0_BobTQ) introducing Basic Formal Ontology. 
 
 # Readings (after class)
 
@@ -26,4 +26,4 @@ None
 
 Michael Chary received his MD and PhD (computational neuroscience, electrophysiology) from the Icahn School of Medicine at Mount Sinai. He completed residency training in Emergency Medicine at NewYork Presbyterian\Queens. He is now a Fellow at the Harvard Medical Toxicology Fellowship. 
 
-Michael uses computational linguistics and applied mathematics to analyze social media for public health research and drug discovery. His group, ToxTweet, was the first to demonstrate that the geographic distribution of recreational drug use could be accurately estimated from Twitter and the dosage, signs and symptoms of opioid overdose inferred from YouTube comments. This is the course's fourth year. 
+Michael uses computational linguistics and applied mathematics to analyze social media for public health research and drug discovery. His group, ToxTweet, was the first to demonstrate that the geographic distribution of recreational drug use could be accurately estimated from Twitter and the dosage, signs and symptoms of opioid overdose inferred from YouTube comments. This is the course's first year. 
